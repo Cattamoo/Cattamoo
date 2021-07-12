@@ -1,4 +1,6 @@
 ### Cattamoo 🤗
+---
+개발을 공부하고있는 취업준비생👩🏻‍💻입니다!
 
 <!--
 **Cattamoo/Cattamoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

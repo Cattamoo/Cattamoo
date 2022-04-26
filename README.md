@@ -8,7 +8,7 @@ I'm a statistics developer📊 in Seoul, Korea.
 
 
 ### 📫 How to reach me
-[✉](cattamoo:ouob77@kakao.com)
+✉ **ouob77@kakao.com**
 
 
 

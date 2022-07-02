@@ -7,11 +7,6 @@ I'm a statistics developer📊 in Seoul, Korea.
 ![React](https://img.shields.io/badge/-React-49d?style=flat-square&logo=react&logoColor=ffffff)
 
 
-### 📫 How to reach me
-✉ **ouob77@kakao.com**
-
-
-
 
 <!--
 **Cattamoo/Cattamoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,8 +3,12 @@
 I'm a statistics developer📊 in Seoul, Korea.
 
 ### 🌱 currently learning
-![Python](https://img.shields.io/badge/-Python-47a?style=flat-square&logo=python&logoColor=ffffff)
+
+I'm preparing a front-end developer.
+
+So the things that I study are:
 ![React](https://img.shields.io/badge/-React-49d?style=flat-square&logo=react&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-47a?style=flat-square&logo=typescript&logoColor=ffffff)
 
 
 

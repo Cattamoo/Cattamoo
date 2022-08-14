@@ -1,14 +1,25 @@
 ## Cattamoo 🤗
 
-I'm a statistics developer📊 in Seoul, Korea.
+### ✨ Introduce Cattamoo
+I'm a **`web developer👩‍💻`** with 1 year of experience in Seoul, Korea.
+
+I am currently in charge of developing a **`statistical website📊`** in the company.
+
+Current Company Stacks are: 
+![Spring Boot](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-c74634?style=flat-square&logo=oracle&logoColor=ffffff)
+![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+
+
 
 ### 🌱 currently learning
 
-I'm preparing a front-end developer.
+I'm preparing a **`front-end developer🎨`**.
 
 So the things that I study are:
-![React](https://img.shields.io/badge/-React-49d?style=flat-square&logo=react&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-47a?style=flat-square&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
 
 
 

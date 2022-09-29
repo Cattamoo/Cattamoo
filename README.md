@@ -3,7 +3,7 @@
 ### ✨ Introduce Cattamoo
 I'm a **`web developer👩‍💻`** with 1 year of experience in Seoul, Korea.
 
-I am currently in charge of developing a **`statistical website📊`** in the company.
+I was in charge of developing a **`statistical website📊`** at my previous company.
 
 Current Company Stacks are: 
 ![Spring Boot](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)

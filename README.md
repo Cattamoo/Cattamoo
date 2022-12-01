@@ -5,7 +5,7 @@ I'm a **`web developer👩‍💻`** with 1 year of experience in Seoul, Korea.
 
 I was in charge of developing a **`statistical website📊`** at my previous company.
 
-Current Company Stacks are: 
+revious Company Stacks are: 
 ![Spring Boot](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-c74634?style=flat-square&logo=oracle&logoColor=ffffff)

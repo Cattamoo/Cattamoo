@@ -24,6 +24,13 @@ So the things that I study are:
 
 
 <!--
+
+![HTML](https://img.shields.io/badge/-HTML-e34c26?style=flat-square&logo=HTML5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat-square&logo=CSS3&logoColor=ffffff)
+![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)
+![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+
 **Cattamoo/Cattamoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

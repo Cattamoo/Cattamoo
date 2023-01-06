@@ -1,26 +1,24 @@
 ## Cattamoo 🤗
 
-### ✨ Introduce Cattamoo
-I'm a **`web developer👩‍💻`** with 1 year of experience in Seoul, Korea.
+### ✨
+저는 1.08년 경력의 **`웹 개발자👩‍💻`** 입니다.
 
-I was in charge of developing a **`statistical website📊`** at my previous company.
-
-Previous Company Stacks are: 
+이전 회사에서는 **`웹 솔루션 개발📊`** 을 담당했었으며,
 ![Spring Boot](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)
 ![Javascript](https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=ffffff)
 ![Oracle](https://img.shields.io/badge/-Oracle-c74634?style=flat-square&logo=oracle&logoColor=ffffff)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
+을 사용했습니다.
 
 
+### 🌱
 
-### 🌱 currently learning
+저는 **`프론트엔드 개발자🎨`** 를 준비중입니다.
 
-I'm preparing a **`front-end developer🎨`**.
-
-So the things that I study are:
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)
+현재 공부중인 스택은
+![React.js](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
-
+입니다.
 
 
 <!--

@@ -19,6 +19,7 @@
 
 현재 공부중인 스택은
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
 입니다.
 

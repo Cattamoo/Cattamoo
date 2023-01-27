@@ -1,10 +1,10 @@
 ## Cattamoo 🤗
 
-[`Portfolio🗂️`](https://cattamoo.github.io/portfolio)
+[**`Portfolio🗂️`**](https://cattamoo.github.io/portfolio)
 
-[2인 웹개발 Organization `JDEA💡`](https://github.com/j-dea)
+[2인 웹개발 Organization **`JDEA💡`**](https://github.com/j-dea)
 
-[리액트로 컴포넌트 만들어보는 Organization `CACTUSpricles🌵`](https://github.com/cactusprickles)
+[리액트로 컴포넌트 만들어보는 Organization **`CACTUSpricles🌵`**](https://github.com/cactusprickles)
 
 ### ✨
 저는 1.08년 경력의 **`웹 개발자👩‍💻`** 입니다.

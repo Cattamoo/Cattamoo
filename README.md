@@ -27,6 +27,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
 입니다.
 
+---
+
+![Cattamoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cattamoo&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cattamoo&layout=compact&theme=default)
+
+
 
 <!--
 

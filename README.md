@@ -29,9 +29,8 @@
 
 ---
 
-![Cattamoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cattamoo&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cattamoo&layout=compact&theme=default)
-
+|![Cattamoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cattamoo&show_icons=true&include_all_commits=true&theme=default&hide_border=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cattamoo&layout=compact&theme=default&hide_border=true)|
+| ------------- | ------------- |
 
 
 <!--

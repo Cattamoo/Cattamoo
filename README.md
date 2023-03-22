@@ -1,6 +1,6 @@
 ## Cattamoo 🤗
 
-[**`Portfolio🗂️`**](https://cattamoo.github.io/portfolio)
+[**`Portfolio🗂️`**](https://cattamoo.github.io/)
 
 [2인 웹개발 Organization **`JDEA💡`**](https://github.com/j-dea)
 

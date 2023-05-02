@@ -25,6 +25,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=ffffff)
 입니다.
 
 ---

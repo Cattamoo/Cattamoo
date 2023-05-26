@@ -21,11 +21,13 @@
 
 저는 **`프론트엔드 개발자🎨`** 를 준비중입니다.
 
-현재 공부중인 스택은
 ![React.js](https://img.shields.io/badge/-React.js-61dafb?style=flat-square&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=ffffff)
+위주로 준비하고있으며, 
+
+현재 공부중인 스택은
+![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux&logoColor=ffffff)
+![ReactNative](https://img.shields.io/badge/-ReactNative-61dafb?style=flat-square&logo=react&logoColor=ffffff)
 입니다.
 
 ---
